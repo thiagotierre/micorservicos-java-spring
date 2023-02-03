@@ -1,2 +1,1 @@
-# spring-boot-rabbitMQ
-configurando projeto spring boot com rabbitMQ
+# Projeto pratico do curso de Microserviços com javva e Spring da Alura
